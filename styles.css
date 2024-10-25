@@ -1,0 +1,801 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+/* background: linear-gradient(90deg, rgba(214, 244, 248, 0.63) 0%, rgba(243, 218, 251, 0.63) 100%); */
+/* background: #00A2B8; */
+
+
+
+
+:root {
+    --bg-color: blue;
+    --font-white-color: white;
+}
+
+.main {
+    background: linear-gradient(90deg, rgba(214, 244, 248, 0.63) 0%, rgba(243, 218, 251, 0.63) 100%);
+
+
+}
+
+.navbar {
+
+
+    /* border: 1px solid; */
+    padding-top: 20px;
+
+
+}
+
+.T-1 {
+
+    text-align: center;
+
+}
+
+
+.T-2 ul {
+    /* padding: 5px 0; */
+
+    /* border: 1px solid; */
+
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.contents {
+
+    /* border: 1px solid; */
+    padding: 2rem 2rem;
+}
+
+.page-1{
+    margin-top: 1rem;
+}
+
+.page-1 {
+
+    /* padding-top: 10px; */
+}
+.cont-1{
+    text-align: center;
+}
+
+.cont-11 {
+    font-family: "Rubik Wet Paint", system-ui;
+
+}
+
+
+
+.contents div h1 {
+
+    color: aqua;
+}
+
+.dog{
+    text-align: center;
+}
+
+.dog>img {
+
+    width: 80%;
+}
+
+
+.contents button {
+
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+
+
+.page-1 button {
+
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    border-style: solid;
+    border-color: #C8437B;
+    border-width: 1px;
+
+    color: #C8437B;
+}
+
+.page-1 button:hover {
+
+    background-color: #C8437B;
+    color: white;
+}
+
+.clr-2 {
+
+    color: black;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+
+
+
+
+/* second*/
+
+.second {
+
+    padding-top: 3rem;
+    padding: 3rem 3rem;
+}
+
+.container {
+
+
+    /* border: 1px solid; */
+    background: linear-gradient(90deg, rgba(214, 244, 248, 0.63) 0%, rgba(243, 218, 251, 0.63) 100%);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+
+}
+
+.box {
+
+    border: 1px solid black;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+/* 3 */
+
+.page-3{
+
+    padding: 3rem 3rem;
+}
+.L-dog {
+
+    text-align: center;
+    object-fit: contain;
+
+
+}
+
+.L-dog img {
+
+    width: 60%;
+
+}
+
+.jrny {
+
+    padding-top: 50px;
+    /* border: 1px solid; */
+}
+
+
+/* 4 */
+
+.page-4 {
+
+    padding-top: 50px;
+    padding: 3rem 3rem;
+}
+
+
+.details-4 {
+
+    /* border: 1px solid; */
+    margin: 0, 1px;
+}
+
+.beagle img {
+
+    width: 452px;
+    height: 452x;
+    border: 1px solid;
+    border-color: #c22265;
+}
+
+.btn-4 button {
+
+ 
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    border-style: solid;
+    border-color: #C8437B;
+    border-width: 1px;
+    color: #C8437B;
+
+}
+
+
+.btn-4 :hover {
+
+    background-color: violet;
+
+
+}
+
+.know-4 button {
+
+     
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    border-style: solid;
+    border-color: #C8437B;
+    border-width: 1px;
+    color: #C8437B;
+    
+
+}
+
+
+.know-4 :hover {
+
+    background-color: violet;
+    color: white;
+
+
+}
+
+/* 5 */
+
+
+
+.page-5 {
+
+    /* padding-top: 50px; */
+    background-color: rgb(250, 215, 221);
+
+}
+
+
+
+.box-5 {
+/* 
+    width: 100px;
+    height: 100px; */
+
+
+}
+
+.dogcat-5{
+
+    text-align: center;
+}
+
+.dogcat-5 img {
+
+    /* border: 1px solid; */
+    width: 60%;
+    
+
+}
+
+
+
+.details-5 h2 {
+
+    color: aqua;
+
+}
+
+.details-5 div>button {
+
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+
+.book{
+
+    text-align: center;
+}
+
+
+.book-2{
+
+    text-align: center;
+}
+
+.mj-5{
+
+    padding: 5rem 3rem;
+}
+
+/* 6 */
+
+
+.page-6{
+
+    padding-top: 50px;
+    padding: 3rem 3rem;
+}
+
+.cont-6{
+
+}
+
+.box-6-1{
+    border: 1px solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    background-color:;
+
+}
+
+.box-6-2{
+    border: 1px solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    position: relative;
+    background-color:;
+    bottom: 70px;
+
+
+
+
+
+}
+
+.box-6{
+
+    border: 1px solid;
+    border-radius: 15px;
+    width: 100%;
+    position: relative;
+    bottom: 140px;
+    background-color: rgb(244, 236, 237);
+
+
+
+
+}
+
+.box-6 img {
+
+    width: 30%;
+
+
+}
+
+.men img{
+
+    /* border: 1px solid; */
+    background-color: aqua;
+}
+.men{
+
+    text-align: center;
+}
+
+.dt-6 img{
+
+    width: 30px;
+}
+ 
+
+
+.star img{
+
+    width: fit-content;
+    padding-top: 11px;
+}
+
+
+/* 7 */
+
+.svn {
+
+    padding-top: 100px;
+
+}
+
+.page-7 {
+
+    /* padding-top: 50px; */
+    background-color:#EDFAFC;
+    padding-bottom: 100px;
+
+
+}
+
+.cont-7{
+
+    margin: 200px;
+
+}
+
+
+.box-7 {
+
+    border: 1px solid black;
+    width: 250px;
+    height: 190px;
+    padding: 2rem 2rem;
+    text-align: center;
+    background-color: white;
+    border-color: #ca9fb1;
+
+    /* margin: auto; */
+
+}
+
+
+.cont-7 :hover{
+
+    border-color: #c22265;
+    cursor: pointer;
+}
+
+.dtl-7 {
+
+text-align: center;
+padding-top: 50px;
+
+}
+
+
+/* 8 */
+
+.page-8 {
+
+    padding-top: 80px;
+    text-align: center;
+}
+
+
+.bx-8 {
+
+    /* border: 1px solid black; */
+    width: 250px;
+    height: 190px;
+}
+
+.bx-8 h2 {
+
+    margin: 0 15px;
+
+
+}
+
+.cont-8{
+
+    text-align: center;
+    margin: 200px;
+
+}
+
+
+
+
+
+
+
+
+@media (min-width:800px) {
+
+    .navbar {
+
+        display: flex;
+        justify-content: space-between;
+        gap: 300px;
+
+        padding-left: 50px;
+        padding-top: 50px;
+
+
+        padding: o, 2rem;
+    }
+
+    .T-2{
+
+        display: flex;
+    }
+
+    .contents {
+
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .cont-1 {
+        /* border: 1px solid; */
+
+        flex: 1;
+
+        padding: 2rem 3rem;
+    }
+
+    .dog {
+        /* border: 1px solid; */
+        flex: 1;
+    }
+
+    .dog img {
+        width: 80%;
+        object-fit: contain;
+    }
+
+    .contents h1 {
+
+        font-size: 81px;
+    }
+
+    .contents p {
+
+        font-size: 24px;
+    }
+
+
+
+
+    .T-1 img {
+
+        width: 189px;
+        height: 72px;
+        font-size: 40px;
+    }
+
+    .T-2 ul {
+
+        padding-right: 100px;
+
+    }
+
+
+    /* 2 */
+    .container {
+
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+
+    }
+
+    .box {
+
+        width: fit-content;
+        height: fit-content;
+        border-radius: 30px;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .container img {
+
+        width: 50px;
+        height: 5opx;
+    }
+
+
+    /* 3 */
+
+    .page-3 {
+
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+
+
+    .L-dog img {
+
+        object-fit: contain;
+
+    }
+
+    .jrny {
+
+        flex: 1;
+        padding: 2rem 3rem;
+
+    }
+
+
+
+    .jrny h1 {
+
+        font-size: 60px;
+
+    }
+
+    .jrny p {
+
+        font-size: 27px;
+        margin: o 10px;
+    }
+
+
+    /* 4 */
+
+
+    .page-4 {
+
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    .details-4 {
+
+        flex: 1;
+
+        padding: 2rem 3rem;
+    }
+
+
+    .details-4 h1 {
+
+        font-size: 50px;
+    }
+
+   
+  
+
+    .cont-4 {
+
+        flex: 1;
+
+
+    }
+
+    .beagle {
+        /* border: 1px solid; */
+
+        flex: 1;
+
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .beagle img {
+
+        width: 50%;
+
+    }
+
+
+
+
+
+    /* 5 */
+
+    .details-5 {
+
+        display: flex;
+    }
+
+
+    .cont-5 {
+
+        display: flex;
+        justify-content: center;
+        flex: 1;
+    }
+
+    .dogcat-5{
+
+        flex: 1;
+    }
+
+    .dogcat-5 img {
+
+        width: 70%;
+
+    }
+
+    .mj-5 h1 {
+
+        font-size: 36px;
+    }
+
+    .details-5 h2 {
+
+        font-size: 60px;
+    }
+
+    
+
+
+    /* 6 */
+
+
+    .box-6{
+
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .men{
+
+        flex: 1;
+    }
+    .dt-6{
+
+        flex: 1;
+    }
+
+    .men img {
+
+        width: 30%;
+
+    }
+    .dt{
+
+        display: flex;
+        flex: 1;
+    }
+    
+
+   
+
+    
+    /* 7 */
+
+    .cont-7 {
+
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+
+    
+    
+    }
+
+    .dtl-7 h1 {
+
+        font-family: Poppins;
+    }
+    
+
+ 
+
+
+    /* 8 */
+
+    
+
+
+    .cont-8 {
+
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+
+
+    }
+    .bx-8{
+
+        gap: 10px;
+    }
+
+
+}
